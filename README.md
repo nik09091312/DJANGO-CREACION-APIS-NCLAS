@@ -138,3 +138,7 @@ AHORA EN EL PRJECTO VE A LAS "URLs.py"
       path('admin/', admin.site.urls),
       path('', include('projects.urls')),
       ] 
+
+
+
+𝕟𝕚𝕜𝟘𝟡𝟘𝟡𝟙𝟛𝟙𝟚
